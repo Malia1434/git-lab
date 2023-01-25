@@ -47,5 +47,33 @@ Author: Malia1434 <md336821@ohio.edu>
 Date:   Tue Jan 24 19:01:28 2023 -0500
 
     Initial commit
+Answer 9:
+On branch main
+Your branch is up to date with 'origin/main'.
+
+nothing to commit, working tree clean
+
+Answer 10: Nothing changed
+
+Answer 11:Nothing changes
+
+Answer 12:
+remote: Enumerating objects: 5, done.
+remote: Counting objects: 100% (5/5), done.
+remote: Compressing objects: 100% (3/3), done.
+remote: Total 3 (delta 1), reused 0 (delta 0), pack-reused 0
+Unpacking objects: 100% (3/3), done.
+From https://github.com/Malia1434/git-lab
+   fa1f406..94e0034  main       -> origin/main
+Updating fa1f406..94e0034
+Fast-forward
+ README.md | 1 +
+ 1 file changed, 1 insertion(+)
+Yeah something was different.
+
+Answer 13:
+ls-a: command not found
+
+
 
 
